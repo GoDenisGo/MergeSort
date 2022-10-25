@@ -9,7 +9,7 @@ The Mergesort algorithm halves an intial slice of unsorted elements until there 
 The algorithm then compares the elements in each sub-slice and merges them together in a sorted order.
 This process of sorting and merging repeats until there is one sorted slice containing all the original elements.
 
-The time complexity of O(NlogN) for the Mergesort algorithm is consistent across its Worst, Average and Best times. This makes the algorithm useful when consistency is key.
+The time complexity of O(NlogN) for the Mergesort algorithm is consistent across its Worst, Average and Best times.
 
 ### Installation
 To run this program, clone it from git and import it to a main project.
