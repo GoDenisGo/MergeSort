@@ -26,7 +26,7 @@ package main
 import (
   "fmt"
   
-  "example.com/MergeSort"
+  "github.com/GoDenisGo/MergeSort"
 )
 
 func main() {
